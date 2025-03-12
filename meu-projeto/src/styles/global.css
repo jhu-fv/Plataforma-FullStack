@@ -1,0 +1,28 @@
+:root {
+    --color-black: #0a0a0a;
+    --color-gray: rgba(128, 128, 128);
+    --color-white: #FFF;
+    --font-primary: "Poppins", sans-serif, serif;
+
+}
+
+a{
+    text-decoration: none;
+}
+body, html{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}

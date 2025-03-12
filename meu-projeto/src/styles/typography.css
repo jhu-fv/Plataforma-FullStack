@@ -1,0 +1,44 @@
+.h1Header {
+    color: var(--color-white);
+    font-family: var(--font-primary);
+    font-size: 1.5rem;
+    font-family: "Poppins", sans-serif; 
+    font-weight: 600; 
+    text-align: center;
+    letter-spacing: 1px; 
+    line-height: 1.5;
+
+}
+
+.card_d {
+    color: var(--color-black);
+    font-size: 18px;
+    font-family: var(--font-primary);
+}
+
+.card_l{
+    color: var(--color-gray);
+
+}
+.card_p{
+    font-weight: bold;
+} 
+
+
+.frontal h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); 
+    font-family: var(--font-primary);
+    color: var(--color-white);
+    font-size: 4rem;
+    font-weight: 600; 
+    letter-spacing: 1px; 
+    line-height: 1.5; 
+}
+
+.footerSection {
+    font-family: var(--font-primary);
+}
+.footerSection h3 {
+    font-size: 1.2rem;
+    color: var(--color-white); 
+}

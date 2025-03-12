@@ -1,0 +1,21 @@
+@import "./reset.css";
+@import "./global.css";
+@import "./index.css";
+@import "./typography.css";
+
+.heartButton {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #ccc;
+    transition: color 0.3s;
+    display: flex;
+    position: relative;
+    right: 1;
+    top: 1;
+}
+
+.favorito {
+    color: red;
+}
